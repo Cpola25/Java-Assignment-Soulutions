@@ -1,3 +1,2 @@
-# TimeProgram-
-This program will return the current time in the formatt hour: minutes: seconds. You can change the output to return the time in your area
-by adjusting the time difference. 
+# Java-Assignment-Solutions
+I will store all of my solutions to Java problems from school on this repository. I will update my solutions once I find more efficient ones. 
